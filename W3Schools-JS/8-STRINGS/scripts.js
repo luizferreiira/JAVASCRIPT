@@ -4,5 +4,3 @@ document.getElementById('demo').innerHTML = "Seja bem-vindo ao \"W3Schools\": " 
 alert(`${nome} seu nome tem ${nome.length} caracteres`);
 
 x = new String("Fernando"); //objeto
-
-//Também existem diversos métodos que podem ser utilizados para manipular strings.
